@@ -5,7 +5,7 @@
 - 😄 hello，my name is `zhengzeqin`
 - 😍 play basketball ...
 
-📖 some record to [掘金](https://juejin.cn/user/1838039172396280) 和 [zhengzeqin`s Blog](https://zhengzeqin.netlify.app/) 
+📖 some record to [掘金](https://juejin.cn/user/1838039172396280/posts) 和 [zhengzeqin`s Blog](https://zhengzeqin.netlify.app/) 
 
 👏🏻 welcome to be friends
 - - -
