@@ -1,6 +1,6 @@
 ### zeqin 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zeqinjie&show_icons=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=zeqinjie&show_icons=true" /> -->
 
 - 😄 hello，my name is `zhengzeqin`
 - 😍 play basketball ...
